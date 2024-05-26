@@ -1,0 +1,42 @@
+
+
+
+.productos{
+    Padding:0;
+    Margin:0;
+    font-family:Algerian;
+    background-color:#C19ADE;
+    font-size:18pt;
+    Text-decoration:name;
+    text-align:center;
+    Padding:0;
+    Margin:0;
+    font-family:century gothic;
+    Color:black;
+    Text-decoration:name;
+    text-align:center;
+
+}
+.container{
+    background-color: #48d1cc;
+}    
+
+.pan{ 
+        width: 1000px;
+        Margin:auto;
+        Border-radius:10px;
+        list-style-type:name;
+        Background-color:rgb(72, 210, 97);
+        justify-content: space-between;
+}
+
+.contac{ 
+        width: 880px;
+        Margin:auto;
+        Border-radius:10px;
+        list-style-type:name;
+        Background-color:rgb(72, 210, 97);
+        justify-content: space-between;
+}
+
+

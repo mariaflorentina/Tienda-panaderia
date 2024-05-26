@@ -1,0 +1,17 @@
+.mi-clase {
+width: 400px;
+height: 300px;
+border: 4px orange inset;
+border-radius: 50px;
+padding: 15px;
+margin: 10px;
+background-color:#FF00FF;
+background-image:url(Rio.JPG);
+display:block;
+text-align:center;
+float: right;
+
+
+
+
+}

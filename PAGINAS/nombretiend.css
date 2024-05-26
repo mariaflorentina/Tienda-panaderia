@@ -1,0 +1,27 @@
+
+ 
+  .encabezado-img{
+   
+    background-image: url(nompan.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+    background-attachment: fixed;
+    display:  flex;
+    flex-direction: column;
+    justify-content: lefht;
+   
+    align-items: center;
+    color: #fff;
+      
+}
+
+.encabezado-img p{
+font-size: 35px;
+
+}
+.encabezado-img h1{
+font-size: 30px;
+padding: 5px
+}
